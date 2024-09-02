@@ -1,6 +1,9 @@
 # Patients_Report_Excel_Project
+
 To help you analyze the file and create a dashboard:-
+
 The Excel file contains the following sheets:
+
 Ethicity and Gender
 race&gender&marital
 birth&death year
