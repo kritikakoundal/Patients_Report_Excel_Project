@@ -30,7 +30,7 @@ The dataset contains 974 entries with 20 columns, including patient ID , birth a
 18. *ZIP*: Zip code, with some missing entries.
 19. *LAT*: Latitude of the patient's location.
 20. *LON*: Longitude of the patient's location.
-21. 
+    
 ### Cleaning Steps:
 1. *Handling Missing Data*:
    - Columns like DEATHDATE, SUFFIX, MAIDEN, and ZIP have missing values.
